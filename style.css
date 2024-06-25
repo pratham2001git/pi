@@ -1,0 +1,7 @@
+@font-face {
+    font-family: mcstan;
+    src: url(crow.ttf);
+}
+h1,body{
+    font-family: mcstan;
+}
